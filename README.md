@@ -46,3 +46,7 @@ It's about creating meaningful experiences through thoughtful structure, visual 
 ---
 
 <sub>DESIGNED WITH PURPOSE. BUILT WITH CODE.</sub>
+
+![HTML5](https://img.shields.io/badge/HTML5-3157D5?style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-3157D5?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-3157D5?style=flat-square)
