@@ -16,7 +16,7 @@ I bring visual thinking and frontend engineering together to create digital expe
 
 **FRONTEND**
 
-![HTML5](https://img.shields.io/badge/HTML5-3157D5?style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-3157D5?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-3157D5?style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-3157D5?style=flat-square) ![Sass](https://img.shields.io/badge/Sass-3157D5?style=flat-square)
 
 HTML5 · CSS3 · Sass · JavaScript · jQuery
 
