@@ -1,52 +1,65 @@
+ <p align="center">
+  <img src="./assets/cover.png" width="100%" alt="Volkan — Editorial Portfolio">
+</p>
+
 # VOLKAN.
 
-### Frontend Developer · Vue.js · Nuxt.js
+### UI ARTIST · ART DIRECTOR · WEB DEVELOPER
 
 *Design-minded development. Thoughtful digital experiences.*
 
-I build modern web experiences where functionality meets visual clarity. My approach combines frontend engineering, purposeful design, and maintainable code.
+I bring visual thinking and frontend engineering together to create digital experiences with clarity, character and purpose.
 
 ---
 
-## EXPERTISE
+## 01 — EXPERTISE
 
-**01 — FRONTEND**
+**FRONTEND**
 
 HTML5 · CSS3 · Sass · JavaScript · jQuery
 
-**02 — FRAMEWORKS**
+**FRAMEWORKS**
 
 Vue.js · Nuxt.js
 
-**03 — BACKEND**
+**BACKEND**
 
 Node.js · Express.js
 
 ---
 
-## SELECTED WORK
+## 02 — SELECTED WORK
 
-*A growing collection of practical experiments, reusable patterns, and independent projects.*
+*A curated collection of experiments, practical applications and independent projects.*
 
-| PROJECT | FOCUS |
-|:--|:--|
-| 01 / Frontend Foundations | Semantic HTML, CSS architecture, Sass |
-| 02 / JavaScript Lab | DOM, asynchronous JS, browser APIs |
-| 03 / API Workshop | Node.js, Express.js, REST APIs |
-| 04 / Vue & Nuxt Patterns | Components, composables, rendering |
+**01 / FRONTEND FOUNDATIONS**
+
+Semantic HTML · CSS Architecture · Sass
+
+**02 / JAVASCRIPT LAB**
+
+DOM Manipulation · Async JavaScript · Browser APIs
+
+**03 / API WORKSHOP**
+
+Node.js · Express.js · REST APIs
+
+**04 / VUE & NUXT**
+
+Components · Composables · Rendering
 
 ---
 
-## APPROACH
+## 03 — CREATIVE APPROACH
 
 I believe good development is more than making things work.
 
-It's about creating meaningful experiences through thoughtful structure, visual hierarchy, performance, and clean code.
+It's about combining visual hierarchy, thoughtful interaction, performance and clean code to create meaningful digital experiences.
 
 ---
 
-<sub>DESIGNED WITH PURPOSE. BUILT WITH CODE.</sub>
-
-![HTML5](https://img.shields.io/badge/HTML5-3157D5?style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS3-3157D5?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-3157D5?style=flat-square)
+<p align="center">
+  **DESIGNED WITH PURPOSE.**
+  
+  **BUILT WITH CODE.**
+</p>
