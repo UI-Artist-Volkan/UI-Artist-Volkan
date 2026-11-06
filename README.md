@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="./assets/cover.png" width="100%" alt="Volkan — Editorial Portfolio">
+  <img src="./assets/cover.jpeg" width="100%" alt="Volkan — Editorial Portfolio">
 </p>
 
 # VOLKAN.
